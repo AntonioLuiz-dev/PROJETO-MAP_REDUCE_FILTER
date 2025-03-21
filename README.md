@@ -1,7 +1,7 @@
 <h1>Projeto Map - Reduce - Filter</h1>
 <br>
 <br>
-<h2>Esse foi mais um projeto de site aplicando todas as tecnlogias: HTML, CSS e JavaScript que aprendi no <a href="rodolfimori.com.br/devclub">DevClub</a>/h2>
+<h2>Esse foi mais um projeto de site aplicando todas as tecnlogias: HTML, CSS e JavaScript que aprendi no <a href="rodolfimori.com.br/devclub">DevClub</a></h2>
 
 <h3>Tecnologias utilizadas</h3>
 <br>
