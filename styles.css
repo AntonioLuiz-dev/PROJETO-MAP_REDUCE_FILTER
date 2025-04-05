@@ -62,3 +62,32 @@ p {
     color: #79cb15;
 
 }
+
+/* MEDIA QUERIES */
+
+/* Tablets */
+@media (max-width: 768px) {
+    ul {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    button {
+        width: 100px;
+    }
+}
+
+/* Celulares */
+@media (max-width: 480px) {
+    ul {
+        grid-template-columns: 1fr;
+    }
+
+    .container-buttons {
+        flex-direction: column;
+    }
+
+    button {
+        width: 100%;
+        max-width: 200px;
+    }
+}
